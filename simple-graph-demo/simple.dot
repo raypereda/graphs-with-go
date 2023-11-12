@@ -1,0 +1,10 @@
+strict digraph "my-graph" {
+// Node definitions.
+1;
+2;
+3;
+
+// Edge definitions.
+1 -> 2;
+2 -> 3;
+}
