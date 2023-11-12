@@ -6,6 +6,10 @@ Don't worry. The code in the folder simple-graph-demo
 shows making build statically linked executables for Mac and Linux.
 The Linux executable is crosscompiled, a favorite and rocksolid feature.
 
+Go links:
+1. Crosscompling https://freshman.tech/snippets/go/cross-compile-go-programs/
+1. the recommended Go package https://pkg.go.dev/gonum.org/v1/gonum@v0.14.0/graph
+1. comparing Go and Java: https://yourbasic.org/golang/advantages-over-java-python/
 -----
 
 I recommend the following Go packages for displaying directed graphs:
